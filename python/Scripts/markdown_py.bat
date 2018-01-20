@@ -1,0 +1,1 @@
+@"c:\users\boldi\appdata\local\programs\python\python35\python.exe" "c:\users\boldi\appdata\local\programs\python\python35\Scripts\markdown_py" %*
